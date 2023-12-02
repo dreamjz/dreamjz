@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamjz&count_private=true&show_icons=true" alt="Dreamjz's GitHub stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamjz&hide=html,scss,cmake,css,vue&show_icons=true&layout=compact" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamjz&count_private=true&show_icons=true&theme=radical" alt="ZxBing0066's GitHub stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamjz&hide=html,scss,cmake,css,vue&show_icons=true&theme=radical&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamjz&hide=html,scss,cmake,css,vue&langs_count=10&show_icons=true&layout=compact" />
   </a>
 </div>
 
