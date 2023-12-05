@@ -1,5 +1,5 @@
 ### Hi there 👋
-Email: dreamjzwork@gmail.com
+### Email: dreamjzwork@gmail.com  &emsp;&emsp;    Random Wifu
 <!--
 **dreamjz/dreamjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +21,9 @@ Here are some ideas to get you started:
   in its original repo: https://github.com/journey-ad/Moe-Counter
   and deploy it to the Replit or Glitch
 -->
-![](https://political-capable-roll.glitch.me/get/@dreamjz?theme=rule34)
+![](https://political-capable-roll.glitch.me/get/@dreamjz?theme=rule34) ![](https://waifu.now.sh/sfw/random)
+
+
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
