@@ -21,8 +21,7 @@ Here are some ideas to get you started:
   in its original repo: https://github.com/journey-ad/Moe-Counter
   and deploy it to the Replit or Glitch
 -->
-![](https://political-capable-roll.glitch.me/get/@dreamjz?theme=rule34) ![](https://waifu.now.sh/sfw/random)
-
+ <img src="https://political-capable-roll.glitch.me/get/@dreamjz?theme=rule34" /> <img src="https://waifu.now.sh/sfw/random" height="200" />
 
 
 <div>
