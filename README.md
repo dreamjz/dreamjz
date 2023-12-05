@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   in its original repo: https://github.com/journey-ad/Moe-Counter
   and deploy it to the Replit or Glitch
 -->
- <img src="https://political-capable-roll.glitch.me/get/@dreamjz?theme=rule34" /> <img src="https://waifu-pics-black.vercel.app/sfw?eps=happy,wink" height="200" />
+ <img src="https://political-capable-roll.glitch.me/get/@dreamjz?theme=rule34" /> &emsp; <img src="https://waifu-pics-black.vercel.app/sfw?eps=happy,wink" height="200" />
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
