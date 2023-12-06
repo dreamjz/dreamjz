@@ -40,8 +40,17 @@ I want to build some useful apps to impove the ACG(Anime, Comic, Game) experienc
 | [anime-hunter ](https://github.com/acgtools/anime-hunter)   | Anime | anime downloader ? / 番剧下载 ？                             | Planning   |
 | [hanime-hunter ](https://github.com/acgtools/hanime-hunter) | Anime | hanime downloader ? / 里番下载 ？                            | Planning   |
 
+### I’m currently learning
 
+All my notes are in [my-notes](https://github.com/dreamjz/my-notes), and I plan to organize and split them into multiple repositories.
 
+| Repo                                                         | Type      | Description                                                  | Status               |
+| ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | -------------------- |
+| [my-notes](https://github.com/dreamjz/my-notes)              | Index     | Collection of Notes / 笔记合集                            | Need to be reorganized |
+| [re-zero-go-project](https://github.com/dreamjz/re-zero-go-project) | Golang    | Go project from zero<br />从零开始的 Go Project<br />Re:ゼロから始めるGo Project | Developing           |
+| [algorithms](https://github.com/dreamjz/algorithms)          | Algorithm | LeetCode solutions and algorithm implementation<br />LeetCode 题解和算法实现 | Developing           |
+| [japanese-notes](https://github.com/dreamjz/japanese-notes)  | Language  | Japanese Notes / 日本語ノート                                | Planning             |
+| ...                                                          | ...       | ...                                                          | ...                  |                                                  | ...                  |
 
 
 ### Just Memes
