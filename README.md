@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   in its original repo: https://github.com/journey-ad/Moe-Counter
   and deploy it to the Replit or Glitch
 -->
+<!-- If you want to deploy your own service for random waifu. Check: https://github.com/dreamjz/waifu-getter -->
  <img src="https://political-capable-roll.glitch.me/get/@dreamjz?theme=rule34" /> &emsp; <img src="https://waifu-getter.vercel.app/sfw?eps=cry,wink,wave,happy" height="200" />
 
 <div>
