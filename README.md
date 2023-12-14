@@ -39,7 +39,10 @@ I want to build some useful apps to impove the ACG(Anime, Comic, Game) experienc
 | [sub-renamer ](https://github.com/acgtools/sub-renamer)     | Anime | CLI tool to automatically rename subtitle files to match corresponding video files <br />自动为字幕文件匹配视频并重命名的 CLI 工具 | Developing |
 | [trace-moe-go ](https://github.com/acgtools/trace-moe-go)   | Anime | A TUI app for finding anime scenes by image / 用于搜索动漫图片出处的 TUI 应用 | Developing |
 | [anime-hunter ](https://github.com/acgtools/anime-hunter)   | Anime | anime downloader ? / 番剧下载 ？                             | Planning   |
-| [hanime-hunter ](https://github.com/acgtools/hanime-hunter) | Anime | hanime downloader / 里番下载                            | Developing   |
+| [hanime-hunter ](https://github.com/acgtools/hanime-hunter) | Anime | hanime downloader / 里番下载                                 | Developing |
+| [comic-hunter](https://github.com/acgtools/comic-hunter)    | Comic | comic downloader ? / 漫画下载 ？                             | Planning   |
+| [hcomic-hunter](https://github.com/acgtools/hcomic-hunter)  | Comic | hcomic downloader ? / 本子下载 ？                            | Planning   |
+
 
 ### I’m currently learning
 
