@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ###  I’m currently working on [ACG Tools](https://github.com/acgtools)
 I want to build some useful apps to impove the ACG(Anime, Comic, Game) experience. Current development status:
 | Repo                                                        | Type  | Desciption                                                   | Status     | Star                                                         |
-| ----------------------------------------------------------- | :---- | :----------------------------------------------------------- | :--------- | ------------------------------------------------------------ |
+| ----------------------------------------------------------- | ----- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | [sub-renamer ](https://github.com/acgtools/sub-renamer)     | Anime | CLI tool to automatically rename subtitle files to match corresponding video files <br />自动为字幕文件匹配视频并重命名的 CLI 工具 | Developing | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/sub-renamer) |
 | [trace-moe-go ](https://github.com/acgtools/trace-moe-go)   | Anime | A TUI app for finding anime scenes by image <br /> 用于搜索动漫图片出处的 TUI 应用 | Developing | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/trace-moe-go) |
 | [anime-hunter ](https://github.com/acgtools/anime-hunter)   | Anime | anime downloader ? / 番剧下载 ？                             | Planning   | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/anime-hunter) |
