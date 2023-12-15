@@ -32,16 +32,22 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###  I’m currently working on [ACG Tools](https://github.com/acgtools)
+###  I’m currently working on [ACG Tools](https://github.com/acgtools) and [Learning Tools](https://github.com/dreamjzlearning)
 I want to build some useful apps to impove the ACG(Anime, Comic, Game) experience. Current development status:
 | Repo                                                        | Type  | Desciption                                                   | Status     | Star                                                         |
 | ----------------------------------------------------------- | ----- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| [sub-renamer ](https://github.com/acgtools/sub-renamer)     | Anime | CLI tool to auto-rename subtitle files <br />自动为字幕文件匹配视频并重命名的 CLI 工具 | Developing | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/sub-renamer&scale=1.3) |
-| [trace-moe-go ](https://github.com/acgtools/trace-moe-go)   | Anime | A TUI app for finding anime scenes by image <br /> 用于搜索动漫图片出处的 TUI 应用 | Developing | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/trace-moe-go&scale=1.3) |
-| [anime-hunter ](https://github.com/acgtools/anime-hunter)   | Anime | anime downloader ? / 番剧下载 ？                             | Planning   | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/anime-hunter&scale=1.3) |
-| [hanime-hunter ](https://github.com/acgtools/hanime-hunter) | Anime | hanime downloader / 里番下载                                 | Developing | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/hanime-hunter&scale=1.3) |
+| [sub-renamer](https://github.com/acgtools/sub-renamer)     | Anime | CLI tool to auto-rename subtitle files <br />自动为字幕文件匹配视频并重命名的 CLI 工具 | Developing | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/sub-renamer&scale=1.3) |
+| [trace-moe-go](https://github.com/acgtools/trace-moe-go)   | Anime | A TUI app for finding anime scenes by image <br /> 用于搜索动漫图片出处的 TUI 应用 | Developing | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/trace-moe-go&scale=1.3) |
+| [anime-hunter](https://github.com/acgtools/anime-hunter)   | Anime | anime downloader ? / 番剧下载 ？                             | Planning   | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/anime-hunter&scale=1.3) |
+| [hanime-hunter](https://github.com/acgtools/hanime-hunter) | Anime | hanime downloader / 里番下载                                 | Developing | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/hanime-hunter&scale=1.3) |
 | [comic-hunter](https://github.com/acgtools/comic-hunter)    | Comic | comic downloader ? / 漫画下载 ？                             | Planning   | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/comic-hunter&scale=1.3) |
 | [hcomic-hunter](https://github.com/acgtools/hcomic-hunter)  | Comic | hcomic downloader ? / 本子下载 ？                            | Planning   | ![](https://unv-shield.librian.net/api/unv_shield?repo=acgtools/hcomic-hunter&scale=1.3) |
+
+
+And some useful app to improve learning experience. Current development status:
+| Repo                                                         | Type     | Desciption                                                   | Status   | Star                                                         |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| [note-book-go](https://github.com/dreamjzlearning/note-book-go) | Language | TUI Words Note Book for learning languages ?<br />单词本 TUI 应用 ？ | Planning | ![](https://unv-shield.librian.net/api/unv_shield?repo=dreamjzlearning/note-book-go&scale=1.3) |
 
 
 ### I’m currently learning
