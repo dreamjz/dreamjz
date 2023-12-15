@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <!-- If you want to deploy your own service for random waifu. Check: https://github.com/dreamjz/waifu-getter -->
  <img src="https://political-capable-roll.glitch.me/get/@dreamjz?theme=rule34" /> &emsp; <img src="https://waifu-getter.vercel.app/sfw?eps=cry,wink,wave,happy" height="200" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dreamjz&title=MultiLanguage,Repositories,Commits,Experience,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamjz&count_private=true&show_icons=true" alt="Dreamjz's GitHub stats" />
