@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+![](./assets/sanke/github-contribution-grid-snake.svg)
+
 ###  I’m currently working on [ACG Tools](https://github.com/acgtools) and [Learning Tools](https://github.com/dreamjzlearning)
 I want to build some useful apps to impove the ACG(Anime, Comic, Game) experience. Current development status:
 | Repo                                                        | Type  | Desciption                                                   | Status     | Star                                                         |
