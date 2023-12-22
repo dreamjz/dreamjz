@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 ![](./assets/sanke/github-contribution-grid-snake.svg)
 
 ###  I’m currently working on [ACG Tools](https://github.com/acgtools) and [Learning Tools](https://github.com/dreamjzlearning)
+Developing progress: [@dreamjz's acg project](https://github.com/orgs/acgtools/projects/1)
+
 I want to build some useful apps to impove the ACG(Anime, Comic, Game) experience. Current development status:
 | Repo                                                        | Type  | Desciption                                                   | Status     | Star                                                         |
 | ----------------------------------------------------------- | ----- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
@@ -55,6 +57,7 @@ And some useful app to improve learning experience. Current development status:
 
 
 ### I’m currently learning
+Learning progress: [@dreamjz's learning plan](https://github.com/orgs/dreamjzlearning/projects/2)
 
 All my notes are in [my-notes](https://github.com/dreamjz/my-notes), and I plan to organize and split them into multiple repositories.
 
