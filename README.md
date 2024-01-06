@@ -1,4 +1,7 @@
-### Hi there👋
+<div align="center">
+    <img src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/image019_S.jpg" /> 
+</div>
+
 ### Blog: https://dreamjz.github.io
 ### Email: dreamjzwork@gmail.com  &emsp;&emsp;&emsp;&emsp;  Random Waifu
 <!--
