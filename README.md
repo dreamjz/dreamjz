@@ -4,39 +4,10 @@
 </div>
 -->
 ### Blog: https://dreamjz.github.io
-### Email: dreamjzwork@gmail.com  &emsp;&emsp;&emsp;&emsp;  Random Waifu
-<!--
-**dreamjz/dreamjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Email: dreamjzwork@gmail.com 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<!-- 
-  If you prefer to use your own Moe-Counter
-  please refer to the tutorial 
-  in its original repo: https://github.com/journey-ad/Moe-Counter
-  and deploy it to the Replit or Glitch
--->
-<!-- If you want to deploy your own service for random waifu. Check: https://github.com/dreamjz/waifu-getter -->
- <img src="https://political-capable-roll.glitch.me/get/@dreamjz?theme=rule34" /> &emsp; <img src="https://waifu-getter.vercel.app/sfw?eps=cry,wink,wave,happy" height="200" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dreamjz&title=MultiLanguage,Repositories,Commits,Experience,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats.shion.dev/api?username=dreamjz&count_private=true&show_icons=true" alt="Dreamjz's GitHub stats" />
-    <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dreamjz&hide=html,scss,cmake,css,vue,dockerfile,shell&langs_count=12&show_icons=true&layout=compact" />
-  </a>
-</div>
 
 ![](./assets/sanke/github-contribution-grid-snake.svg)
 
