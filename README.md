@@ -47,12 +47,16 @@ All my notes are in [my-notes](https://github.com/dreamjz/my-notes), and I plan 
 
 ### Just Memes
 
-<div>
-  <img src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202310152217098.jpeg" width="300" height="320" /> 
-  <img src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202310152220109.jpeg"  width="420" height="320" /> 
-  <img src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202310152309514.jpeg" width="300" height="320" /> 
-  <img src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202310152311241.gif" width="420" height="320" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202310152217098.jpeg" width="300" height="320" /></td>
+    <td><img src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202310152220109.jpeg" width="420" height="320" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202310152309514.jpeg" width="300" height="320" /></td>
+    <td><img src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202310152311241.gif" width="420" height="320" /></td>
+  </tr>
+</table>
 
 ### First PC In My Life
 Building by myself, it's my dream when I was a high school student.
